@@ -38,14 +38,17 @@ docker pull fahimahmad33/beasiswa-app:latest
 - Visualisasi graf hubungan mahasiswa dan beasiswa
 - Integrasi API + UI secara lokal dan online (ngrok)
   
-## 🖼️ Preview Antarmuka Aplikasi
+## Preview Antarmuka Aplikasi
 
 Berikut adalah tampilan antarmuka dari sistem rekomendasi beasiswa:
-
-## 🖼️ Preview Antarmuka Aplikasi
 
 ![Preview Aplikasi 1](bea.jpg)
 
 ![Preview Aplikasi 2](bea2.jpg)
+
+## Lampiran
+
+- 📄 [Makalah Sistem Rekomendasi Beasiswa (PDF)](Makalah%20Sistem%20Rekomendasi%20Beasiswa.pdf)
+
 
 
