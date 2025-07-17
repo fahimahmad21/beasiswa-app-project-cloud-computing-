@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+scikit-learn
+textblob
+networkx
+pyvis
