@@ -42,5 +42,10 @@ docker pull fahimahmad33/beasiswa-app:latest
 
 Berikut adalah tampilan antarmuka dari sistem rekomendasi beasiswa:
 
-![Preview Aplikasi](bea.jpg)
+## 🖼️ Preview Antarmuka Aplikasi
+
+![Preview Aplikasi 1](bea.jpg)
+
+![Preview Aplikasi 2](bea2.jpg)
+
 
