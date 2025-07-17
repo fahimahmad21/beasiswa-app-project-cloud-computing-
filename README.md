@@ -37,3 +37,10 @@ docker pull fahimahmad33/beasiswa-app:latest
 - Filter berdasarkan negara, jenjang studi, dan jenis dana
 - Visualisasi graf hubungan mahasiswa dan beasiswa
 - Integrasi API + UI secara lokal dan online (ngrok)
+  
+## 🖼️ Preview Antarmuka Aplikasi
+
+Berikut adalah tampilan antarmuka dari sistem rekomendasi beasiswa:
+
+![Preview Aplikasi](bea.jpg)
+
